@@ -1,0 +1,8 @@
+.fade-enter {
+    opacity: 0.014;
+}
+
+.fade-enter-active {
+    opacity: 1;
+    transition: all 2000ms ease-out;
+}
